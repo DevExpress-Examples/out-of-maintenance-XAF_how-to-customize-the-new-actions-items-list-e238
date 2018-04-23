@@ -1,0 +1,36 @@
+namespace HowToCustomizeNewActionItemsList.Module.Win {
+	partial class HowToCustomizeNewActionItemsListWindowsFormsModule {
+		/// <summary> 
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.IContainer components = null;
+
+		/// <summary> 
+		/// Clean up any resources being used.
+		/// </summary>
+		/// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+		protected override void Dispose(bool disposing) {
+			if(disposing && (components != null)) {
+				components.Dispose();
+			}
+			base.Dispose(disposing);
+		}
+
+		#region Component Designer generated code
+
+		/// <summary> 
+		/// Required method for Designer support - do not modify 
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent() {
+			// 
+			// HowToCustomizeNewActionItemsListWindowsFormsModule
+			// 
+			this.RequiredModuleTypes.Add(typeof(HowToCustomizeNewActionItemsList.Module.HowToCustomizeNewActionItemsListModule));
+			this.RequiredModuleTypes.Add(typeof(DevExpress.ExpressApp.Win.SystemModule.SystemWindowsFormsModule));
+
+		}
+
+		#endregion
+	}
+}
