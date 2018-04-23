@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizeNewActionItemsListExample.Module", "CustomizeNewActionItemsListExample.Module\CustomizeNewActionItemsListExample.Module.csproj", "{54FAFC27-5DBA-4135-8B5D-C60C1674147D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizeNewActionItemsListExample.Web", "CustomizeNewActionItemsListExample.Web\CustomizeNewActionItemsListExample.Web.csproj", "{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizeNewActionItemsListExample.Win", "CustomizeNewActionItemsListExample.Win\CustomizeNewActionItemsListExample.Win.csproj", "{0669C811-DBC7-4C94-A70C-66F35880590C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FAFC27-5DBA-4135-8B5D-C60C1674147D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FAFC27-5DBA-4135-8B5D-C60C1674147D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FAFC27-5DBA-4135-8B5D-C60C1674147D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{54FAFC27-5DBA-4135-8B5D-C60C1674147D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{54FAFC27-5DBA-4135-8B5D-C60C1674147D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FAFC27-5DBA-4135-8B5D-C60C1674147D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6771563-4BDF-494B-8CF1-9EA0A19B5F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0669C811-DBC7-4C94-A70C-66F35880590C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0669C811-DBC7-4C94-A70C-66F35880590C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0669C811-DBC7-4C94-A70C-66F35880590C}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0669C811-DBC7-4C94-A70C-66F35880590C}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0669C811-DBC7-4C94-A70C-66F35880590C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0669C811-DBC7-4C94-A70C-66F35880590C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
