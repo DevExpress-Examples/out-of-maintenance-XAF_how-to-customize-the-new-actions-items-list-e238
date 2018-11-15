@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomizeNewActionItemsListController.cs](./CS/CustomizeNewActionItemsListExample.Module/Controllers/CustomizeNewActionItemsListController.cs) (VB: [CustomizeNewActionItemsListController.vb](./VB/CustomizeNewActionItemsListExample.Module/Controllers/CustomizeNewActionItemsListController.vb))
+<!-- default file list end -->
 # How to Customize the New Action's Items List
 
 
