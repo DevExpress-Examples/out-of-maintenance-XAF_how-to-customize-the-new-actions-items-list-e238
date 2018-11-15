@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyController.cs](./CS/HowToCustomizeNewActionItemsList.Module.Win/MyController.cs) (VB: [MyController.vb](./VB/HowToCustomizeNewActionItemsList.Module.Win/MyController.vb))
+* [BusinessClasses.cs](./CS/HowToCustomizeNewActionItemsList.Module/BusinessClasses.cs) (VB: [BusinessClasses.vb](./VB/HowToCustomizeNewActionItemsList.Module/BusinessClasses.vb))
+<!-- default file list end -->
 # How to Customize the New Action's Items List
 
 
